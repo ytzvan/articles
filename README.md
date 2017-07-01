@@ -18,3 +18,5 @@
 * [Un app de Turismo hecho en Panamá](http://los40.com.pa/los40/2015/08/04/actualidad/1438720093_394988.html) - Los 40 Panamá
 * [Emprendimiento: Entrevista a Triptable](http://pontegeekpty.com/triptable/) - Revista Ponte geek
 * [Jóvenes panameños lanzan aplicación turística](http://laestrella.com.pa/vida-de-hoy/tecnologia/jovenes-panamenos-lanzan-aplicacion-turistica/23815013) - La Estrella De Panamá
+* [Make Exquisite Tours on Triptable!](http://startupdope.com/triptablereview/) - Startup Dope
+
